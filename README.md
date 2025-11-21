@@ -1,52 +1,18 @@
-# 👋 Hey, I’m Bobur — Full-Stack Python & Django Developer  
+# 💫 About Me:
+# 👋 Hey, I’m Bobur — Full-Stack Python & Django Developer  <br><br>Building clean systems, research-driven solutions, and deploy-ready platforms.<br><br>### 🧠 About Me  <br>I create web platforms, queues & CRM systems for clinics, news portals, AI-assisted tools, and scientific applications related to renewable energy and thermodynamic efficiency.<br><br>---<br><br>## ⚙️ Tech Stack  <br>**Backend:** Python • Django 5.x • DRF  <br>**Frontend:** HTML • CSS • Bootstrap • JS  <br>**Databases:** SQLite • PostgreSQL • MySQL  <br>**DevOps / Deploy:** PythonAnywhere • Render • aHost  <br>**Tools:** VS Code • Git • Figma • Adobe  <br><br>---<br><br>## 🚀 Featured Projects  <br><br>### **🔹 ARTAR — Art Marketplace (UZ-style)**  <br>Artist profiles • uploads • views • ratings • categories  <br>Fully responsive & deployed.<br><br>### **🔹 Clinic CRM — Queue & Payment System**  <br>Doctor schedule • patient registry • queue numbers • cashier interface •  <br>XPrinter 80mm receipt integration.<br><br>### **🔹 NewsPortal — Multi-Language News Website**  <br>UZ/EN/RU news • categories • admin panel • SEO-friendly.<br><br>### **🔹 Portfolio Website**  <br>Achievements upload system • responsive UI • clean design.<br><br>---<br><br>## 🔬 Research Areas  <br>- Trombe Wall performance (PV + thermal)  <br>- Energy-efficient building design  <br>- DC fan airflow / forced convection research  <br>- PV dust accumulation & efficiency drop  <br><br>---<br><br>## 📊 Stats  <br>![Stats](https://github-readme-stats.vercel.app/api?username=Boburjon2142&show_icons=true&theme=tokyonight)<br><br>---<br><br>## 📫 Contact  <br>**Telegram:** @boburjon2142  <br>**Portfolio:** akramjonovich2.pythonanywhere.com<br><br>
 
-Building clean systems, research-driven solutions, and deploy-ready platforms.
 
-### 🧠 About Me  
-I create web platforms, queues & CRM systems for clinics, news portals, AI-assisted tools, and scientific applications related to renewable energy and thermodynamic efficiency.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Boburjon2142&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Boburjon2142&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Boburjon2142&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-
-## ⚙️ Tech Stack  
-**Backend:** Python • Django 5.x • DRF  
-**Frontend:** HTML • CSS • Bootstrap • JS  
-**Databases:** SQLite • PostgreSQL • MySQL  
-**DevOps / Deploy:** PythonAnywhere • Render • aHost  
-**Tools:** VS Code • Git • Figma • Adobe  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Boburjon2142&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Boburjon2142&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Featured Projects  
-
-### **🔹 ARTAR — Art Marketplace (UZ-style)**  
-Artist profiles • uploads • views • ratings • categories  
-Fully responsive & deployed.
-
-### **🔹 Clinic CRM — Queue & Payment System**  
-Doctor schedule • patient registry • queue numbers • cashier interface •  
-XPrinter 80mm receipt integration.
-
-### **🔹 NewsPortal — Multi-Language News Website**  
-UZ/EN/RU news • categories • admin panel • SEO-friendly.
-
-### **🔹 Portfolio Website**  
-Achievements upload system • responsive UI • clean design.
-
----
-
-## 🔬 Research Areas  
-- Trombe Wall performance (PV + thermal)  
-- Energy-efficient building design  
-- DC fan airflow / forced convection research  
-- PV dust accumulation & efficiency drop  
-
----
-
-## 📊 Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=Boburjon2142&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Contact  
-**Telegram:** @TrBoburjon  
-**Portfolio:** akramjonovich2.pythonanywhere.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
